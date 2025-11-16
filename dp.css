@@ -1,12 +1,12 @@
 body{
-    background-color: lightblue;
+    background-color: black;
 }
 h1{
     color: white;
     text-align: center;
 }
 button{
-    background-color: white;
+    background-color: blue;
     color: black;
     padding: 15px 32px;
     text-align: center;
@@ -17,4 +17,5 @@ button{
     cursor: pointer;
     border-radius: 12px;
     margin-left: 45%;
+    border: orangered 2px solid;
 }
